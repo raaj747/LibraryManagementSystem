@@ -46,16 +46,16 @@ Access to API endpoints is controlled using **Spring Security + JWT + role-based
 
 | Technology               | Purpose                         |
 | ------------------------ | ------------------------------- |
-| ☕ **Java**               | Backend programming language    |
+| ☕ **Java**              | Backend programming language    |
 | 🍃 **Spring Boot**       | REST API development            |
 | 🌐 **Spring MVC**        | Controllers and API endpoints   |
-| 🗃️ **Spring Data JPA**  | Database operations             |
+| 🗃️ **Spring Data JPA**   | Database operations             |
 | 🔄 **Hibernate**         | Object-Relational Mapping       |
 | 🔐 **Spring Security**   | Authentication & authorization  |
 | 🎫 **JWT**               | Secure user authentication      |
 | 🐬 **MySQL**             | Relational database             |
 | 📦 **Maven**             | Dependency & project management |
-| 📖 **Swagger / OpenAPI** | API documentation & testing     |
+| 📖 **Swagger**           | API documentation & testing     |
 | ✅ **Bean Validation**    | Request validation              |
 
 ---
