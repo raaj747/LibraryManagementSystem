@@ -59,13 +59,6 @@ Authorization: Bearer YOUR_JWT_TOKEN
 
 This is a learning/demo project. Change the demo passwords and JWT secret before using it for a real deployment.
 
-## Fixed-project notes
-
-- The duplicate `/api/librarian/issues` mapping is removed. The extra summary endpoint is `GET /api/librarian/issues-summary`.
-- Invalid login credentials return HTTP 401.
-- Password fields are required and must contain at least 6 characters.
-- JWT parsing failures are handled safely by the authentication filter.
-
 ## Swagger
 
 After starting the application, open:
