@@ -4,7 +4,7 @@ A **Spring Boot REST API** for managing a complete library system, including **b
 
 The system provides **JWT-based authentication** and **role-based authorization** for Admin, Librarian, and Member users. It uses **MySQL** for persistent data storage and **Spring Data JPA / Hibernate** for database management.
 
-Swagger / OpenAPI is also integrated for easy **API documentation and testing**.
+Swagger is also integrated for easy **API documentation and testing**.
 
 ---
 
