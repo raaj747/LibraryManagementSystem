@@ -22,7 +22,7 @@ Swagger / OpenAPI is also integrated for easy **API documentation and testing**.
 * 🔄 Spring Data JPA & Hibernate
 * ✅ Request validation using Bean Validation
 * 📑 Global exception handling
-* 📖 Swagger / OpenAPI API documentation
+* 📖 Swagger API documentation
 * 🛡️ Spring Security integration
 * 🌐 RESTful API architecture
 
