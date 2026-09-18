@@ -260,9 +260,9 @@ Fine Paid
 
 ---
 
-## 📖 Swagger / OpenAPI
+## 📖 Swagger
 
-Swagger / OpenAPI is included to make API documentation and testing easier.
+Swagger is included to make API documentation and testing easier.
 
 After starting the application, Swagger UI can be accessed through the configured Swagger endpoint.
 
@@ -288,7 +288,7 @@ From Swagger UI you can:
 
 Before running the project, make sure you have installed:
 
-* ☕ Java 17+
+* ☕ Java 8+
 * 📦 Maven
 * 🐬 MySQL
 * 💻 IntelliJ IDEA / Eclipse / VS Code
